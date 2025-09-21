@@ -2,31 +2,12 @@
 
 import * as React from "react"
 import {
-  Bar,
-  BarChart,
-  CartesianGrid,
-  Cell,
   Legend as LegendPrimitive,
-  Line,
-  LineChart,
-  Pie,
-  PieChart,
-  PolarAngleAxis,
-  PolarGrid,
-  PolarRadiusAxis,
-  Radar,
-  RadarChart,
-  RadialBar,
-  RadialBarChart,
-  Rectangle,
+
+
   ResponsiveContainer,
-  Scatter,
-  ScatterChart,
-  Sector,
+
   Tooltip as TooltipPrimitive,
-  Treemap,
-  XAxis,
-  YAxis,
 } from "recharts"
 
 import { cn } from "@/lib/utils"
